@@ -12,6 +12,8 @@ In the banking sector, this is an important factor to be considered before appro
 
 **Solution Approach**: Leverage past customer data to train a predictive model.
 
+<h2>Project Overview</h2>
+
 •	Explored factors influencing loan approval and developed a predictive model using historical customer data and conducted hyperparameter tuning using grid search and random search methods to optimize and adjust model performance.
 
 •	Directed comprehensive EDA to understand the dataset's structure, distributions, and variable relationships, and applied feature engineering techniques to enhance model performance. 
