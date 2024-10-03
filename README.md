@@ -6,9 +6,9 @@ In the banking sector, this is an important factor to be considered before appro
 
 **Problem**: The current manual validation process is time-consuming and inefficient -  the customers apply for a home loan, and the company/bank manually validates their eligibility.
 
-**Objective**: Automate loan eligibility decisions
+**Objective**: Automate loan eligibility decisions.
 
-**Goal**: Reduce potential losses and Improve efficiency
+**Goal**: Reduce potential losses and Improve efficiency.
 
 **Solution Approach**: Leverage past customer data to train a predictive model.
 
