@@ -1,5 +1,4 @@
-#Classification-LoanEligibilityPrediction
-Classification - Loan Eligibility Prediction
+# Classification-LoanEligibilityPrediction
 
 •	Explored factors influencing loan approval and developed a predictive model using historical customer data and conducted hyperparameter tuning using grid search and random search methods to optimize and adjust model performance.
 
